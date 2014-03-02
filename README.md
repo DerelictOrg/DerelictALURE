@@ -19,6 +19,6 @@ void main() {
 }
 ```
 
-[1]: http://www.ode.org/
+[1]: http://kcat.strangesoft.net/alure.html
 [2]: http://dblog.aldacron.net/forum/index.php?topic=841.0
 [3]: https://github.com/DerelictOrg/DerelictUtil/wiki/DerelictUtil-for-Users
