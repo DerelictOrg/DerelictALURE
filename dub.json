@@ -12,7 +12,7 @@
     "targetPath": "lib",
 
     "dependencies": {
-        "derelict-al": "~master",
-        "derelict-util": ">=1.0.0"
+        "derelict-al": "~>1.0.1",
+        "derelict-util": "~>2.0.3"
     }
 }
